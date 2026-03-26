@@ -146,18 +146,10 @@ sdn-odl-mininet-pfe/
 │   └── improvement_plan.pdf         # Post-defense improvement roadmap
 │
 ├── assets/                          # Figures, diagrams, screenshots
-│   ├── architecture_diagram.png
-│   ├── topology_single_switch.png
-│   ├── topology_dual_switch.png
-│   ├── topology_multi_controller.png
-│   ├── wireshark_openflow.png
-│   ├── iperf_results/
-│   │   ├── iperf_intra_640mbps.png
-│   │   ├── iperf_inter_585mbps.png
-│   │   └── iperf_multicontroller_9.81gbps.png
-│   └── connectivity_tests/
-│       ├── pingall_learning_phase.png
-│       └── pingall_full_connectivity.png
+│   ├── Chapitre 2/
+│   ├── Chapitre 3/
+│   ├── Senario's/
+│   ├── sdn_github_banner.svg
 │
 ├── results/                         # Raw experimental data
 │   ├── throughput_summary.md
@@ -464,9 +456,8 @@ Migrate from emulated (Mininet) to physical **OpenFlow-capable switches** (e.g.,
 
 **Special Thanks:**  
 We extend particular gratitude to **Pr. Amine Bouaouda** for his course on Virtualization and Cloud Computing, which provided the essential foundation in Docker containerization applied throughout this project.
-|
+
 We also thank **Pr. Tarek AIT BAHA** for suggesting this advanced topic and for his guidance in navigating an emerging technology absent from our curriculum.
-|
 ---
 
 <div align="center">
