@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="SDN Architecture Banner" width="100%"/>
+<div align="center">
+  <img src="assets/sdn_github_banner.svg" alt="SDN Architecture Banner" width="100%">
+</div>
+
 
 # Study, Design, and Implementation of an SDN Architecture
 ### *Decoupling the Control Plane from the Data Plane using OpenDaylight, Mininet, and Docker*
