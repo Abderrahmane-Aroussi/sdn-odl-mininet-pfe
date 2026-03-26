@@ -114,7 +114,7 @@ This repository serves as both a technical portfolio and a scientific reference 
 | **Performance Testing** | iPerf3 | TCP throughput benchmarking between emulated hosts |
 | **Protocol Analysis** | Wireshark | OpenFlow message capture and dissection |
 | **Scripting** | Python 3 | Custom Mininet topology definition scripts |
-| **Host OS** | Ubuntu 24.04 LTS | Base virtual machine (4 CPU cores, 8 GB RAM) |
+| **Host OS** | Ubuntu 24.04 LTS | Base virtual machine (2 CPU cores, 10 GB RAM) |
 | **ODL Features** | `odl-restconf`, `odl-l2switch-switch` | RESTCONF API exposure + Layer 2 reactive switching |
 
 ---
